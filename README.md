@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI related projects
 - 🌱 I’m currently learning anything AI related  
 - 💞️ I’m looking to collaborate on AI related projects, OpenAI projects, ComfyUI custom nodes
-- 📫 How to reach me message me at my page [Ko-Fi page](https://ko-fi.com/ardenius) 
+- 📫 contact or support: at my [Ko-Fi page](https://ko-fi.com/ardenius) 
 
 <!---
 ArdeniusAI/ArdeniusAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
