@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI related projects
 - 🌱 I’m currently learning anything AI related  
 - 💞️ I’m looking to collaborate on AI related projects, OpenAI projects, ComfyUI custom nodes
-- 📫 gallery, contact, or support: at my [Ko-Fi page](https://ko-fi.com/ardenius) 
+- 📫 members only software, gallery, contact, or support: at my [Ko-Fi page](https://ko-fi.com/ardenius) 
 - All code published in [my GitHub profile](https://github.com/ArdeniusAI) © 2024 is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 - which means FREE FOR PERSONAL USE, For commercial license visit [Ko-Fi page](https://ko-fi.com/ardenius)
 <!---
