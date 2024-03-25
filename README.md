@@ -2,8 +2,8 @@
 - 👀 I’m interested in AI related projects
 - 🌱 I’m currently learning anything AI related  
 - 💾 I’m looking to collaborate on AI related projects, OpenAI projects, ComfyUI custom nodes
-- 📸 Change the mood ! by Visiting my [AI Image Gallery](https://ko-fi.com/ardenius/gallery)
-- 🏆 ➡️ [Premium Memebers only Perks](https://ko-fi.com/ardenius) (Premium SD Models, ComfyUI custom nodees, and more to come)
+- 📸 ➡️ Change the mood ! by Visiting my [AI Image Gallery](https://ko-fi.com/ardenius/gallery)
+- 🏆 ➡️ [Premium Memebers only Perks](https://ko-fi.com/ardenius/tiers) (Premium SD Models, ComfyUI custom nodees, and more to come)
 - All code published in [my GitHub profile](https://github.com/ArdeniusAI) © 2024 is licensed under [CC BY-NC 4.0 Deed](https://creativecommons.org/licenses/by-nc/4.0/)
 - 📢 (((FREE FOR PERSONAL USE))) 
 <!---
