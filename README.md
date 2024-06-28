@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArdeniusAI
 - 👀 I’m interested in AI related projects
-- 🌱 I’m currently learning anything AI related  
+- 🌱 [Ardenius AI Experts](https://ardeniusai.com)
 - 💾 I’m looking to collaborate on AI related projects, OpenAI projects, ComfyUI custom nodes
 - 📸 ➡️ Change the mood ! by Visiting my [AI Image Gallery](https://ko-fi.com/ardenius/gallery)
 - 🏆 ➡️ [Premium Memebers only Perks](https://ko-fi.com/ardenius/tiers) (Premium SD Models, ComfyUI custom nodees, and more to come)
