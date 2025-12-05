@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArdeniusAI
 - 👀 I’m interested in AI related projects
 - 👋 email: Ardenius7@gmail.com
-- 🌱 [Ardenius AI Image tools](https://ardeniusai.com)
+- 🌱 [Ardenius AI Image tools](https://ko-fi.com/ardenius)
 - 💾 I’m looking to collaborate on AI related projects, OpenAI projects, ComfyUI custom nodes, or any interesting project send me a dm or email.
 - 📸 ➡️ Change the mood ! by Visiting my [AI Image Gallery](https://ko-fi.com/ardenius/gallery)
 <!---
